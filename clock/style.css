@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Oswald', sans-serif;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+}
+
+div{
+    color: black;
+    text-align: center;
+    font-size: 250px;
+    padding: 80px;
+    font-weight: 900;
+    border-radius: 50px;
+    background: linear-gradient(50deg, #f5f5f5, #a9a9a9)
+}
